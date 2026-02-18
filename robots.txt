@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://zachzhou-git.github.io/Miguel-Rueda/sitemap.xml
+Sitemap: https://ruedamiguel13.github.io/website/sitemap.xml

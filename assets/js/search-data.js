@@ -7,58 +7,58 @@ ninja.data = [{
     title: "HOME",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/Miguel-Rueda/";
+      window.location.href = "/website/";
     },
   },{id: "nav-cv",
           title: "CV",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/Miguel-Rueda/cv/";
+            window.location.href = "/website/cv/";
           },
         },{id: "nav-research",
           title: "RESEARCH",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/Miguel-Rueda/research/";
+            window.location.href = "/website/research/";
           },
         },{id: "nav-teaching",
           title: "TEACHING",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/Miguel-Rueda/teaching/";
+            window.location.href = "/website/teaching/";
           },
         },{id: "nav-dataverse",
           title: "DATAVERSE",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/Miguel-Rueda/dataverse/";
+            window.location.href = "/website/dataverse/";
           },
         },{id: "nav-community",
           title: "COMMUNITY",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/Miguel-Rueda/community/";
+            window.location.href = "/website/community/";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/Miguel-Rueda/books/the_godfather/";
+              window.location.href = "/website/books/the_godfather/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
           section: "Teachings",handler: () => {
-              window.location.href = "/Miguel-Rueda/teachings/data-science-fundamentals/";
+              window.location.href = "/website/teachings/data-science-fundamentals/";
             },},{id: "teachings-introduction-to-machine-learning",
           title: 'Introduction to Machine Learning',
           description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
           section: "Teachings",handler: () => {
-              window.location.href = "/Miguel-Rueda/teachings/introduction-to-machine-learning/";
+              window.location.href = "/website/teachings/introduction-to-machine-learning/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
