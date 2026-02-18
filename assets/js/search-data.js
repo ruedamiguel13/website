@@ -7,58 +7,58 @@ ninja.data = [{
     title: "HOME",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/website/";
+      window.location.href = "/";
     },
   },{id: "nav-cv",
           title: "CV",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/website/cv/";
+            window.location.href = "/cv/";
           },
         },{id: "nav-research",
           title: "RESEARCH",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/website/research/";
+            window.location.href = "/research/";
           },
         },{id: "nav-teaching",
           title: "TEACHING",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/website/teaching/";
+            window.location.href = "/teaching/";
           },
         },{id: "nav-dataverse",
           title: "DATAVERSE",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/website/dataverse/";
+            window.location.href = "/dataverse/";
           },
         },{id: "nav-community",
           title: "COMMUNITY",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/website/community/";
+            window.location.href = "/community/";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/website/books/the_godfather/";
+              window.location.href = "/books/the_godfather/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
           section: "Teachings",handler: () => {
-              window.location.href = "/website/teachings/data-science-fundamentals/";
+              window.location.href = "/teachings/data-science-fundamentals/";
             },},{id: "teachings-introduction-to-machine-learning",
           title: 'Introduction to Machine Learning',
           description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
           section: "Teachings",handler: () => {
-              window.location.href = "/website/teachings/introduction-to-machine-learning/";
+              window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
